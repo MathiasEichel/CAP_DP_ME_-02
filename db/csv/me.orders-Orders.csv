@@ -1,0 +1,3 @@
+orderNumber;salesOrg;posNumber;productID;quantity;unitCode;Division;itemCategoryGroup;plantId
+45000012345;PLE1;10;TG-10001;20;PCE;;;
+45000012350;PLE1;10;TG-10010;20;PCE;;;
